@@ -3,4 +3,4 @@ Extract Excel Data From Input File Then Restructure/ Format It Differently Into 
 
 reader.py Reads The Data From Input File Then import writer.py To Write And Format The Data To The Output File
 
-Run reader.py
+Run main.py
